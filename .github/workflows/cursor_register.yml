@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       number:
-        default: "2"
+        default: "3"
         type: number
       max_workers:
         default: "1"
